@@ -1,0 +1,2204 @@
+{
+    "href": "https://api.spotify.com/v1/users/11140603442/playlists?offset=0&limit=50",
+    "items": [
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/6sqXjhuCpN7OQK3tZDFU1M"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6sqXjhuCpN7OQK3tZDFU1M",
+        "id": "6sqXjhuCpN7OQK3tZDFU1M",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d873585520a72f2f02113e75",
+            "width": 640
+          }
+        ],
+        "name": "OJ",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "Miw5ZmQzNGY4ZGNlNDgwMDk4MjE3MGFjYTk4N2EyYzFiNjk4MWJiMTc0",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/6sqXjhuCpN7OQK3tZDFU1M/tracks",
+          "total": 3
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6sqXjhuCpN7OQK3tZDFU1M"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/42DvlNsSsmlzpaRb8p1OH2"
+        },
+        "href": "https://api.spotify.com/v1/playlists/42DvlNsSsmlzpaRb8p1OH2",
+        "id": "42DvlNsSsmlzpaRb8p1OH2",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731bc5ccf47e75e84abc02abf2",
+            "width": 640
+          }
+        ],
+        "name": "Drum and bass (Halloween)",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "Miw5MzM5Nzk3ZmU5MjBlYTQ4ZGQwMDY3ZTgxNzQxMTQzZmZiNDA2NjE5",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/42DvlNsSsmlzpaRb8p1OH2/tracks",
+          "total": 3
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:42DvlNsSsmlzpaRb8p1OH2"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/4aEpEpdRk1adkQaD19v5i7"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4aEpEpdRk1adkQaD19v5i7",
+        "id": "4aEpEpdRk1adkQaD19v5i7",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2731cfcbbbc20408bc5f02dde0cab67616d0000b27331ab751a153f1ab67ae796e7ab67616d0000b27358267bd34420a00d5cf83a49ab67616d0000b2737c55ba569c7771fa3003e549",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2731cfcbbbc20408bc5f02dde0cab67616d0000b27331ab751a153f1ab67ae796e7ab67616d0000b27358267bd34420a00d5cf83a49ab67616d0000b2737c55ba569c7771fa3003e549",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2731cfcbbbc20408bc5f02dde0cab67616d0000b27331ab751a153f1ab67ae796e7ab67616d0000b27358267bd34420a00d5cf83a49ab67616d0000b2737c55ba569c7771fa3003e549",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MiwzNzU5Y2M4ZTM5M2MxOWNlOGJiNDIxN2JmYjYzYTQzYWMzNDgxZmMw",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/4aEpEpdRk1adkQaD19v5i7/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4aEpEpdRk1adkQaD19v5i7"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/7lKUorBlaypRHaQtOol5tP"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7lKUorBlaypRHaQtOol5tP",
+        "id": "7lKUorBlaypRHaQtOol5tP",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d0a50cacfb47854fa416cd6c",
+            "width": 640
+          }
+        ],
+        "name": "My Shazam Tracks",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MyxjZTBlZDE0MTAwNTliYWJiNjVkNjVkOTA5OGI5NzBiYTMyNDk0NTg4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/7lKUorBlaypRHaQtOol5tP/tracks",
+          "total": 3
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7lKUorBlaypRHaQtOol5tP"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/3yLtBoPKDYbQ8bLhL4HgWW"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3yLtBoPKDYbQ8bLhL4HgWW",
+        "id": "3yLtBoPKDYbQ8bLhL4HgWW",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273524aa1b58c9b19480d8ee703ab67616d0000b2737221095f90342abffbe8372eab67616d0000b273975d871c8eddd62814574bdaab67616d0000b273f0d0c560899763087f52a058",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273524aa1b58c9b19480d8ee703ab67616d0000b2737221095f90342abffbe8372eab67616d0000b273975d871c8eddd62814574bdaab67616d0000b273f0d0c560899763087f52a058",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273524aa1b58c9b19480d8ee703ab67616d0000b2737221095f90342abffbe8372eab67616d0000b273975d871c8eddd62814574bdaab67616d0000b273f0d0c560899763087f52a058",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MiwyYjhjMjQ5YjgwZGNiYjllNGM2ZGU2MGMxOWRlMzdiZGQ4OTBjYTc3",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/3yLtBoPKDYbQ8bLhL4HgWW/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3yLtBoPKDYbQ8bLhL4HgWW"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/3AiASFbJvmsEpChFuu4Q3q"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3AiASFbJvmsEpChFuu4Q3q",
+        "id": "3AiASFbJvmsEpChFuu4Q3q",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273011aa86d7b4307e90c9bb48aab67616d0000b273043c0e1ed5fea80da456116dab67616d0000b27358267bd34420a00d5cf83a49ab67616d0000b273c5649add07ed3720be9d5526",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273011aa86d7b4307e90c9bb48aab67616d0000b273043c0e1ed5fea80da456116dab67616d0000b27358267bd34420a00d5cf83a49ab67616d0000b273c5649add07ed3720be9d5526",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273011aa86d7b4307e90c9bb48aab67616d0000b273043c0e1ed5fea80da456116dab67616d0000b27358267bd34420a00d5cf83a49ab67616d0000b273c5649add07ed3720be9d5526",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MiwyNTc1NTM0MDYzMGZhMDc4YTQ4MWQ2M2JkZDI5ZWJkODE4M2QzZTJi",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/3AiASFbJvmsEpChFuu4Q3q/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3AiASFbJvmsEpChFuu4Q3q"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/2joBy6PHvmfslzxoZyD2JU"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2joBy6PHvmfslzxoZyD2JU",
+        "id": "2joBy6PHvmfslzxoZyD2JU",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273175c577a61aa13d4fb4b6534ab67616d0000b273524aa1b58c9b19480d8ee703ab67616d0000b273720be50074ccc55c97cbfc6fab67616d0000b273d93501aba7bc1140aac628c6",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273175c577a61aa13d4fb4b6534ab67616d0000b273524aa1b58c9b19480d8ee703ab67616d0000b273720be50074ccc55c97cbfc6fab67616d0000b273d93501aba7bc1140aac628c6",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273175c577a61aa13d4fb4b6534ab67616d0000b273524aa1b58c9b19480d8ee703ab67616d0000b273720be50074ccc55c97cbfc6fab67616d0000b273d93501aba7bc1140aac628c6",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MiwxNzc2ZjZlZTQ5ZTFjMGFjYTMzOWIyMTBjNmViMGQ3NGU5Y2M1MWUz",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/2joBy6PHvmfslzxoZyD2JU/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2joBy6PHvmfslzxoZyD2JU"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/1LMD5XrPaF6ShKa2an8QYJ"
+        },
+        "href": "https://api.spotify.com/v1/playlists/1LMD5XrPaF6ShKa2an8QYJ",
+        "id": "1LMD5XrPaF6ShKa2an8QYJ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b27314c07768d4acc4282a66a61bab67616d0000b2737221095f90342abffbe8372eab67616d0000b2739038c36a541e43c6ee3a5e91ab67616d0000b273c031126d2dac32ccb5d20a81",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b27314c07768d4acc4282a66a61bab67616d0000b2737221095f90342abffbe8372eab67616d0000b2739038c36a541e43c6ee3a5e91ab67616d0000b273c031126d2dac32ccb5d20a81",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b27314c07768d4acc4282a66a61bab67616d0000b2737221095f90342abffbe8372eab67616d0000b2739038c36a541e43c6ee3a5e91ab67616d0000b273c031126d2dac32ccb5d20a81",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "Miw2ZmNlYjdiZTdjZDAzN2YxZWVhNDhkZDZmZjNiOWU4NDc3NDZmZjM3",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/1LMD5XrPaF6ShKa2an8QYJ/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:1LMD5XrPaF6ShKa2an8QYJ"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/4vTJKVuZ4bFtaYYsEB3CpA"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4vTJKVuZ4bFtaYYsEB3CpA",
+        "id": "4vTJKVuZ4bFtaYYsEB3CpA",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b2731070095e88dce90a090171b5ab67616d0000b27332abb2615f798321e41bdf2fab67616d0000b273975d871c8eddd62814574bda",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b2731070095e88dce90a090171b5ab67616d0000b27332abb2615f798321e41bdf2fab67616d0000b273975d871c8eddd62814574bda",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b2731070095e88dce90a090171b5ab67616d0000b27332abb2615f798321e41bdf2fab67616d0000b273975d871c8eddd62814574bda",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MixmOGRjZjIxNDM5NTdiYTllODQzMjljY2NhOTA2ZGMxMGJhMDVjNGNl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/4vTJKVuZ4bFtaYYsEB3CpA/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4vTJKVuZ4bFtaYYsEB3CpA"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/1sVRCOxvKA5SFGShD61CWM"
+        },
+        "href": "https://api.spotify.com/v1/playlists/1sVRCOxvKA5SFGShD61CWM",
+        "id": "1sVRCOxvKA5SFGShD61CWM",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2732d08bd5850c3ad951dd75e16ab67616d0000b273641c76b29698131584d68ba5ab67616d0000b273c82543e2f3925f37f29bdb3fab67616d0000b273dbdf58e737e422858904854a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2732d08bd5850c3ad951dd75e16ab67616d0000b273641c76b29698131584d68ba5ab67616d0000b273c82543e2f3925f37f29bdb3fab67616d0000b273dbdf58e737e422858904854a",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2732d08bd5850c3ad951dd75e16ab67616d0000b273641c76b29698131584d68ba5ab67616d0000b273c82543e2f3925f37f29bdb3fab67616d0000b273dbdf58e737e422858904854a",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MixkM2I4NGQwNGUyYTNjMDRlMmRiNzhlMDEzYzMxZjg4MDg0NWMwZWNk",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/1sVRCOxvKA5SFGShD61CWM/tracks",
+          "total": 48
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:1sVRCOxvKA5SFGShD61CWM"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/79BglL14b5gYe96Sb2JAam"
+        },
+        "href": "https://api.spotify.com/v1/playlists/79BglL14b5gYe96Sb2JAam",
+        "id": "79BglL14b5gYe96Sb2JAam",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273011aa86d7b4307e90c9bb48aab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b2731cfcbbbc20408bc5f02dde0cab67616d0000b2732b09fa6d5b2828d5f02617a9",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273011aa86d7b4307e90c9bb48aab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b2731cfcbbbc20408bc5f02dde0cab67616d0000b2732b09fa6d5b2828d5f02617a9",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273011aa86d7b4307e90c9bb48aab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b2731cfcbbbc20408bc5f02dde0cab67616d0000b2732b09fa6d5b2828d5f02617a9",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "Miw4MjBjOGIxNGJmZjBlZjFhMmQwMjNhYzVmM2UwNmUzNWMyZDFjZjE5",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/79BglL14b5gYe96Sb2JAam/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:79BglL14b5gYe96Sb2JAam"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/7p7qS8FZdLgHe4uBuyqqQR"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7p7qS8FZdLgHe4uBuyqqQR",
+        "id": "7p7qS8FZdLgHe4uBuyqqQR",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273175c577a61aa13d4fb4b6534ab67616d0000b27358267bd34420a00d5cf83a49ab67616d0000b2738cdc374a84c164e2b3216c2dab67616d0000b273cc8a5d4f1edaa004a3abece7",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273175c577a61aa13d4fb4b6534ab67616d0000b27358267bd34420a00d5cf83a49ab67616d0000b2738cdc374a84c164e2b3216c2dab67616d0000b273cc8a5d4f1edaa004a3abece7",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273175c577a61aa13d4fb4b6534ab67616d0000b27358267bd34420a00d5cf83a49ab67616d0000b2738cdc374a84c164e2b3216c2dab67616d0000b273cc8a5d4f1edaa004a3abece7",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "Miw5MGM4YTMyN2RmNTRhYzZhODQyNzg5YzUxOGYzYjBlYTdjYTliZjFk",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/7p7qS8FZdLgHe4uBuyqqQR/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7p7qS8FZdLgHe4uBuyqqQR"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/6RjWdt7ovXrKgfIASF0XEt"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6RjWdt7ovXrKgfIASF0XEt",
+        "id": "6RjWdt7ovXrKgfIASF0XEt",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273043c0e1ed5fea80da456116dab67616d0000b2731070095e88dce90a090171b5ab67616d0000b27315088c7760f292d5f245df78ab67616d0000b273720be50074ccc55c97cbfc6f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273043c0e1ed5fea80da456116dab67616d0000b2731070095e88dce90a090171b5ab67616d0000b27315088c7760f292d5f245df78ab67616d0000b273720be50074ccc55c97cbfc6f",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273043c0e1ed5fea80da456116dab67616d0000b2731070095e88dce90a090171b5ab67616d0000b27315088c7760f292d5f245df78ab67616d0000b273720be50074ccc55c97cbfc6f",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MixkMDYzNDQzNDQ0NWQ1NjFlMmU5MDMyZGVlZThmMGIwYTI3MGM5YzRl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/6RjWdt7ovXrKgfIASF0XEt/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6RjWdt7ovXrKgfIASF0XEt"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/7z3ypBQ2vBQCHcvH7LD4O5"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7z3ypBQ2vBQCHcvH7LD4O5",
+        "id": "7z3ypBQ2vBQCHcvH7LD4O5",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273043c0e1ed5fea80da456116dab67616d0000b27331ab751a153f1ab67ae796e7ab67616d0000b27343969ecfe687484121805478ab67616d0000b27358267bd34420a00d5cf83a49",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273043c0e1ed5fea80da456116dab67616d0000b27331ab751a153f1ab67ae796e7ab67616d0000b27343969ecfe687484121805478ab67616d0000b27358267bd34420a00d5cf83a49",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273043c0e1ed5fea80da456116dab67616d0000b27331ab751a153f1ab67ae796e7ab67616d0000b27343969ecfe687484121805478ab67616d0000b27358267bd34420a00d5cf83a49",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "Miw5NDVkNDg2YjVjNjY4OTg4YjVjOTBlYzlmYzBjN2ExNmRhMjBlOGI1",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/7z3ypBQ2vBQCHcvH7LD4O5/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7z3ypBQ2vBQCHcvH7LD4O5"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/0dFPvt6sIrtsBJNON8YpQo"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0dFPvt6sIrtsBJNON8YpQo",
+        "id": "0dFPvt6sIrtsBJNON8YpQo",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273043c0e1ed5fea80da456116dab67616d0000b2735dd65a2ee191015c273acc88ab67616d0000b2737221095f90342abffbe8372eab67616d0000b27384754cebbe3cf0116504589e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273043c0e1ed5fea80da456116dab67616d0000b2735dd65a2ee191015c273acc88ab67616d0000b2737221095f90342abffbe8372eab67616d0000b27384754cebbe3cf0116504589e",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273043c0e1ed5fea80da456116dab67616d0000b2735dd65a2ee191015c273acc88ab67616d0000b2737221095f90342abffbe8372eab67616d0000b27384754cebbe3cf0116504589e",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MiwyNTQ2YjYwYTdmODUyZmViOGY4ZmIwYjQ1NTkyNjUyZjdmYWE1ODNl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/0dFPvt6sIrtsBJNON8YpQo/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0dFPvt6sIrtsBJNON8YpQo"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/3mXmaCuCJGwS2qE1fKVkIA"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3mXmaCuCJGwS2qE1fKVkIA",
+        "id": "3mXmaCuCJGwS2qE1fKVkIA",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2734fdd5d63ad202bae22cf4dcaab67616d0000b273524aa1b58c9b19480d8ee703ab67616d0000b2737221095f90342abffbe8372eab67616d0000b273cc8a5d4f1edaa004a3abece7",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2734fdd5d63ad202bae22cf4dcaab67616d0000b273524aa1b58c9b19480d8ee703ab67616d0000b2737221095f90342abffbe8372eab67616d0000b273cc8a5d4f1edaa004a3abece7",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2734fdd5d63ad202bae22cf4dcaab67616d0000b273524aa1b58c9b19480d8ee703ab67616d0000b2737221095f90342abffbe8372eab67616d0000b273cc8a5d4f1edaa004a3abece7",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "Miw0ZGMwMTkxMmJkYmMyYjFmYWU3YzQ2YWM5ODJlZmIzMzYwNzlmMWI0",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/3mXmaCuCJGwS2qE1fKVkIA/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3mXmaCuCJGwS2qE1fKVkIA"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/6jXEXthHxHfZVqiNcWwaIC"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6jXEXthHxHfZVqiNcWwaIC",
+        "id": "6jXEXthHxHfZVqiNcWwaIC",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b27374b0013d9cefeb665d6e65e7ab67616d0000b2737c55ba569c7771fa3003e549ab67616d0000b273975d871c8eddd62814574bdaab67616d0000b273b86e608c2833b87bdfd67393",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b27374b0013d9cefeb665d6e65e7ab67616d0000b2737c55ba569c7771fa3003e549ab67616d0000b273975d871c8eddd62814574bdaab67616d0000b273b86e608c2833b87bdfd67393",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b27374b0013d9cefeb665d6e65e7ab67616d0000b2737c55ba569c7771fa3003e549ab67616d0000b273975d871c8eddd62814574bdaab67616d0000b273b86e608c2833b87bdfd67393",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "Miw3MmRmOTNlNDJjZjc3YTRmZjc5ZDczM2ZhYWE5NWZkYjZiNzBmMWRk",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/6jXEXthHxHfZVqiNcWwaIC/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6jXEXthHxHfZVqiNcWwaIC"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/6wOapyE5dmI8cMf1Z9Vmip"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6wOapyE5dmI8cMf1Z9Vmip",
+        "id": "6wOapyE5dmI8cMf1Z9Vmip",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2731cfcbbbc20408bc5f02dde0cab67616d0000b27343969ecfe687484121805478ab67616d0000b273600adbc750285ea1a8da249fab67616d0000b2737d6703d9dcccd33668863d74",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2731cfcbbbc20408bc5f02dde0cab67616d0000b27343969ecfe687484121805478ab67616d0000b273600adbc750285ea1a8da249fab67616d0000b2737d6703d9dcccd33668863d74",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2731cfcbbbc20408bc5f02dde0cab67616d0000b27343969ecfe687484121805478ab67616d0000b273600adbc750285ea1a8da249fab67616d0000b2737d6703d9dcccd33668863d74",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "Miw5NWM1ZjA2NDYxMDdkOWE1NjJmNDEzZjU2YmYyNjAwZDUzMWVhNDU2",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/6wOapyE5dmI8cMf1Z9Vmip/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6wOapyE5dmI8cMf1Z9Vmip"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/1JOmz1pFIHhHfCQRwOIH4N"
+        },
+        "href": "https://api.spotify.com/v1/playlists/1JOmz1pFIHhHfCQRwOIH4N",
+        "id": "1JOmz1pFIHhHfCQRwOIH4N",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b27314c07768d4acc4282a66a61bab67616d0000b2737d6703d9dcccd33668863d74ab67616d0000b273b6ebdbbe53227ccbac4de534",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b27314c07768d4acc4282a66a61bab67616d0000b2737d6703d9dcccd33668863d74ab67616d0000b273b6ebdbbe53227ccbac4de534",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b27314c07768d4acc4282a66a61bab67616d0000b2737d6703d9dcccd33668863d74ab67616d0000b273b6ebdbbe53227ccbac4de534",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MiwyNWUyOThiOGMzNjgzMjBmZWE3NzQzMTZkMWUwZTBkNmRlNjdhMGJl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/1JOmz1pFIHhHfCQRwOIH4N/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:1JOmz1pFIHhHfCQRwOIH4N"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/2GkZltTULk0Bq4FTm7GJpZ"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2GkZltTULk0Bq4FTm7GJpZ",
+        "id": "2GkZltTULk0Bq4FTm7GJpZ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2730462a9be5505af5d85444bd3ab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b27358267bd34420a00d5cf83a49ab67616d0000b2735dd65a2ee191015c273acc88",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2730462a9be5505af5d85444bd3ab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b27358267bd34420a00d5cf83a49ab67616d0000b2735dd65a2ee191015c273acc88",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2730462a9be5505af5d85444bd3ab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b27358267bd34420a00d5cf83a49ab67616d0000b2735dd65a2ee191015c273acc88",
+            "width": 60
+          }
+        ],
+        "name": "Anni",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MiwxMDk0OWU5NjY5ZDI0NTJhNzIyMmU0ZmFmMTBmNWM1ODBlMjRiYWE3",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/2GkZltTULk0Bq4FTm7GJpZ/tracks",
+          "total": 98
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2GkZltTULk0Bq4FTm7GJpZ"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/0FaN8RtVNp188Ryj4A9SUk"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0FaN8RtVNp188Ryj4A9SUk",
+        "id": "0FaN8RtVNp188Ryj4A9SUk",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b27343969ecfe687484121805478ab67616d0000b2734f33d03da09cfdf70aa804f3ab67616d0000b273b86e608c2833b87bdfd67393ab67616d0000b273ea2f8f07a050f8dc9ff93de0",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b27343969ecfe687484121805478ab67616d0000b2734f33d03da09cfdf70aa804f3ab67616d0000b273b86e608c2833b87bdfd67393ab67616d0000b273ea2f8f07a050f8dc9ff93de0",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b27343969ecfe687484121805478ab67616d0000b2734f33d03da09cfdf70aa804f3ab67616d0000b273b86e608c2833b87bdfd67393ab67616d0000b273ea2f8f07a050f8dc9ff93de0",
+            "width": 60
+          }
+        ],
+        "name": "Anni",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "Miw5NDFmMmM4MmFiMGZiMDExMzBjODZmNzI0ZDM5ZDI1OWI1ZWE1NDAw",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/0FaN8RtVNp188Ryj4A9SUk/tracks",
+          "total": 16
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0FaN8RtVNp188Ryj4A9SUk"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/5w33wPeocx7HGsx6Ehcsqd"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5w33wPeocx7HGsx6Ehcsqd",
+        "id": "5w33wPeocx7HGsx6Ehcsqd",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27354e2e9209fe41213c5f75073",
+            "width": 640
+          }
+        ],
+        "name": "House Playlist 2020",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MiwwZjA5OTAzMjM2ZWUxNWY2NjI4NDY0YTlmNTJlMTVkYWYwMTdmNWUy",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/5w33wPeocx7HGsx6Ehcsqd/tracks",
+          "total": 1
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5w33wPeocx7HGsx6Ehcsqd"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/6rXjwAQ04po6hdGUUMSsal"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6rXjwAQ04po6hdGUUMSsal",
+        "id": "6rXjwAQ04po6hdGUUMSsal",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2731f3527f267608bffb8aecdf4ab67616d0000b27343969ecfe687484121805478ab67616d0000b2738cdc374a84c164e2b3216c2dab67616d0000b273b86e608c2833b87bdfd67393",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2731f3527f267608bffb8aecdf4ab67616d0000b27343969ecfe687484121805478ab67616d0000b2738cdc374a84c164e2b3216c2dab67616d0000b273b86e608c2833b87bdfd67393",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2731f3527f267608bffb8aecdf4ab67616d0000b27343969ecfe687484121805478ab67616d0000b2738cdc374a84c164e2b3216c2dab67616d0000b273b86e608c2833b87bdfd67393",
+            "width": 60
+          }
+        ],
+        "name": "Perkforce",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MixlY2JjNGVlZTBlMjQyZjRmZmMwY2VkMmExZGI0YTg3N2MyMjViMzQx",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/6rXjwAQ04po6hdGUUMSsal/tracks",
+          "total": 7
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6rXjwAQ04po6hdGUUMSsal"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/2WwPDi77Qxpp2YiLfbLy2H"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2WwPDi77Qxpp2YiLfbLy2H",
+        "id": "2WwPDi77Qxpp2YiLfbLy2H",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b27314c07768d4acc4282a66a61bab67616d0000b2735dd65a2ee191015c273acc88ab67616d0000b273d5d4e2569963f1cc5212786cab67616d0000b273e1b5d4da4797e4760c0b66b3",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b27314c07768d4acc4282a66a61bab67616d0000b2735dd65a2ee191015c273acc88ab67616d0000b273d5d4e2569963f1cc5212786cab67616d0000b273e1b5d4da4797e4760c0b66b3",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b27314c07768d4acc4282a66a61bab67616d0000b2735dd65a2ee191015c273acc88ab67616d0000b273d5d4e2569963f1cc5212786cab67616d0000b273e1b5d4da4797e4760c0b66b3",
+            "width": 60
+          }
+        ],
+        "name": "Jan",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "Miw4ZGJiM2NkOTRmMTA3YjZkOGU1YmFhZmYxYzg1ZDBkZTIwZjdlNzFm",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/2WwPDi77Qxpp2YiLfbLy2H/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2WwPDi77Qxpp2YiLfbLy2H"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/6p0FYpAREMIU4ml3wSNueu"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6p0FYpAREMIU4ml3wSNueu",
+        "id": "6p0FYpAREMIU4ml3wSNueu",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b2732f98dc917d7e068ccb7791ddab67616d0000b2737221095f90342abffbe8372eab67616d0000b273b6ebdbbe53227ccbac4de534",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b2732f98dc917d7e068ccb7791ddab67616d0000b2737221095f90342abffbe8372eab67616d0000b273b6ebdbbe53227ccbac4de534",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b2732f98dc917d7e068ccb7791ddab67616d0000b2737221095f90342abffbe8372eab67616d0000b273b6ebdbbe53227ccbac4de534",
+            "width": 60
+          }
+        ],
+        "name": "Emma",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MiwzMmYwMGUxYjQ4YzJmNmQyNmI1YjEwOTNlZWQ3YTJiNzA4MDk5YWM2",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/6p0FYpAREMIU4ml3wSNueu/tracks",
+          "total": 5
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6p0FYpAREMIU4ml3wSNueu"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/6esx4nyT8qps7YND0sJBca"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6esx4nyT8qps7YND0sJBca",
+        "id": "6esx4nyT8qps7YND0sJBca",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273175c577a61aa13d4fb4b6534ab67616d0000b2731f3527f267608bffb8aecdf4ab67616d0000b27343969ecfe687484121805478ab67616d0000b273b86e608c2833b87bdfd67393",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273175c577a61aa13d4fb4b6534ab67616d0000b2731f3527f267608bffb8aecdf4ab67616d0000b27343969ecfe687484121805478ab67616d0000b273b86e608c2833b87bdfd67393",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273175c577a61aa13d4fb4b6534ab67616d0000b2731f3527f267608bffb8aecdf4ab67616d0000b27343969ecfe687484121805478ab67616d0000b273b86e608c2833b87bdfd67393",
+            "width": 60
+          }
+        ],
+        "name": "NETI",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "Miw2MTFhZWEzNDM4MmI2MTMyM2JkMDQ2ZjgxOTkyZmRhOTY3MzQyYTM2",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/6esx4nyT8qps7YND0sJBca/tracks",
+          "total": 7
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6esx4nyT8qps7YND0sJBca"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/7zLwOk17OaQgZ4Ju0M2RrO"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7zLwOk17OaQgZ4Ju0M2RrO",
+        "id": "7zLwOk17OaQgZ4Ju0M2RrO",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2730462a9be5505af5d85444bd3ab67616d0000b273515023a3a4b55d5db87010e6ab67616d0000b27374b0013d9cefeb665d6e65e7ab67616d0000b273fc1bc1cf80c431c2bdbde601",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2730462a9be5505af5d85444bd3ab67616d0000b273515023a3a4b55d5db87010e6ab67616d0000b27374b0013d9cefeb665d6e65e7ab67616d0000b273fc1bc1cf80c431c2bdbde601",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2730462a9be5505af5d85444bd3ab67616d0000b273515023a3a4b55d5db87010e6ab67616d0000b27374b0013d9cefeb665d6e65e7ab67616d0000b273fc1bc1cf80c431c2bdbde601",
+            "width": 60
+          }
+        ],
+        "name": "Kingsley bah",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "Miw2NDg1ZWUzN2EyYmVmNDg3NjQ3ZTVjY2E1M2U0ZjQzY2FmNDdkNmNm",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/7zLwOk17OaQgZ4Ju0M2RrO/tracks",
+          "total": 7
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7zLwOk17OaQgZ4Ju0M2RrO"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/5pwrhxGQ8vYFwPIL5kFWzK"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5pwrhxGQ8vYFwPIL5kFWzK",
+        "id": "5pwrhxGQ8vYFwPIL5kFWzK",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b27311cccdd155b64fafaf51da5cab67616d0000b27314c07768d4acc4282a66a61bab67616d0000b2733f183f47d34734499f68ccacab67616d0000b27347062ae316d5e216a4c264ba",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b27311cccdd155b64fafaf51da5cab67616d0000b27314c07768d4acc4282a66a61bab67616d0000b2733f183f47d34734499f68ccacab67616d0000b27347062ae316d5e216a4c264ba",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b27311cccdd155b64fafaf51da5cab67616d0000b27314c07768d4acc4282a66a61bab67616d0000b2733f183f47d34734499f68ccacab67616d0000b27347062ae316d5e216a4c264ba",
+            "width": 60
+          }
+        ],
+        "name": "Demo",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MiwzM2M5ZTdiNWI0Nzc0MTViNmRlM2Y4Y2ExOGQ0NzU3ZWFkMzhkZmYz",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/5pwrhxGQ8vYFwPIL5kFWzK/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5pwrhxGQ8vYFwPIL5kFWzK"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/48SaFAxCUfo4JlOxvUdj41"
+        },
+        "href": "https://api.spotify.com/v1/playlists/48SaFAxCUfo4JlOxvUdj41",
+        "id": "48SaFAxCUfo4JlOxvUdj41",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b27311cccdd155b64fafaf51da5cab67616d0000b2732fd0c566a2db806842b61460ab67616d0000b27332175dbb68c3f1864f4f34d0ab67616d0000b27343969ecfe687484121805478",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b27311cccdd155b64fafaf51da5cab67616d0000b2732fd0c566a2db806842b61460ab67616d0000b27332175dbb68c3f1864f4f34d0ab67616d0000b27343969ecfe687484121805478",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b27311cccdd155b64fafaf51da5cab67616d0000b2732fd0c566a2db806842b61460ab67616d0000b27332175dbb68c3f1864f4f34d0ab67616d0000b27343969ecfe687484121805478",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MiwyZmIyYTMyM2NmOTNhMmM4NWY5NzlhZWY2N2EzMmQyODMxNDZkZTcy",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/48SaFAxCUfo4JlOxvUdj41/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:48SaFAxCUfo4JlOxvUdj41"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/7DsRDuoHvY9mbTEiH61xBv"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7DsRDuoHvY9mbTEiH61xBv",
+        "id": "7DsRDuoHvY9mbTEiH61xBv",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b27343969ecfe687484121805478ab67616d0000b273600adbc750285ea1a8da249fab67616d0000b2738cdc374a84c164e2b3216c2dab67616d0000b273b86e608c2833b87bdfd67393",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b27343969ecfe687484121805478ab67616d0000b273600adbc750285ea1a8da249fab67616d0000b2738cdc374a84c164e2b3216c2dab67616d0000b273b86e608c2833b87bdfd67393",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b27343969ecfe687484121805478ab67616d0000b273600adbc750285ea1a8da249fab67616d0000b2738cdc374a84c164e2b3216c2dab67616d0000b273b86e608c2833b87bdfd67393",
+            "width": 60
+          }
+        ],
+        "name": "Dylan",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MixlMjU2MDhlZDZlOTg0NTgzMDQyNTlkNWZjNTEwOWU1MmJkYWNmNTVk",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/7DsRDuoHvY9mbTEiH61xBv/tracks",
+          "total": 7
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7DsRDuoHvY9mbTEiH61xBv"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/4qMdqHKpdLvIr5yqZim9aA"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4qMdqHKpdLvIr5yqZim9aA",
+        "id": "4qMdqHKpdLvIr5yqZim9aA",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273175c577a61aa13d4fb4b6534ab67616d0000b2731cfcbbbc20408bc5f02dde0cab67616d0000b273600adbc750285ea1a8da249fab67616d0000b2738cdc374a84c164e2b3216c2d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273175c577a61aa13d4fb4b6534ab67616d0000b2731cfcbbbc20408bc5f02dde0cab67616d0000b273600adbc750285ea1a8da249fab67616d0000b2738cdc374a84c164e2b3216c2d",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273175c577a61aa13d4fb4b6534ab67616d0000b2731cfcbbbc20408bc5f02dde0cab67616d0000b273600adbc750285ea1a8da249fab67616d0000b2738cdc374a84c164e2b3216c2d",
+            "width": 60
+          }
+        ],
+        "name": "Dylan",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "Miw5ZTU0ODJmYzIwMTc4MDkyNTcwZTYxZGYxN2E2ODkwMmVkM2Y5YTA5",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/4qMdqHKpdLvIr5yqZim9aA/tracks",
+          "total": 7
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4qMdqHKpdLvIr5yqZim9aA"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/2Zmah06yoEsoZVNcMuqOMn"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2Zmah06yoEsoZVNcMuqOMn",
+        "id": "2Zmah06yoEsoZVNcMuqOMn",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2733c18043ed8276f7e364dcc51",
+            "width": 640
+          }
+        ],
+        "name": "On My Way Home – Kan Sano 2",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MixjNTE5NDA4NGVlOTIzMTNlYWUwNTc3ODhhZDg0YjA3MGQzYzBkYjhk",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/2Zmah06yoEsoZVNcMuqOMn/tracks",
+          "total": 1
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2Zmah06yoEsoZVNcMuqOMn"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/3m782Sg5C39cgU2j9BwG9U"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3m782Sg5C39cgU2j9BwG9U",
+        "id": "3m782Sg5C39cgU2j9BwG9U",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2733c18043ed8276f7e364dcc51",
+            "width": 640
+          }
+        ],
+        "name": "On My Way Home – Kan Sano",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MixkZGRlYjNhNTJhYzE0NTEwMDBkNTc4OTc4ZjViNWU0ZjhhNTgyNWI3",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/3m782Sg5C39cgU2j9BwG9U/tracks",
+          "total": 1
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3m782Sg5C39cgU2j9BwG9U"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/3V5vonaJRtDXYxlYjeqEsF"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3V5vonaJRtDXYxlYjeqEsF",
+        "id": "3V5vonaJRtDXYxlYjeqEsF",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273175c577a61aa13d4fb4b6534ab67616d0000b27343969ecfe687484121805478ab67616d0000b273c5649add07ed3720be9d5526ab67616d0000b273d93501aba7bc1140aac628c6",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273175c577a61aa13d4fb4b6534ab67616d0000b27343969ecfe687484121805478ab67616d0000b273c5649add07ed3720be9d5526ab67616d0000b273d93501aba7bc1140aac628c6",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273175c577a61aa13d4fb4b6534ab67616d0000b27343969ecfe687484121805478ab67616d0000b273c5649add07ed3720be9d5526ab67616d0000b273d93501aba7bc1140aac628c6",
+            "width": 60
+          }
+        ],
+        "name": "Clancys",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "Miw2ZjgzMGRkZjQxNDU5NjZhZjJlYTJiMWZlZWIwYWU1M2RiZDNjYTc0",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/3V5vonaJRtDXYxlYjeqEsF/tracks",
+          "total": 11
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3V5vonaJRtDXYxlYjeqEsF"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/5qqeLVtsdxTBRsdMKXPZLB"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5qqeLVtsdxTBRsdMKXPZLB",
+        "id": "5qqeLVtsdxTBRsdMKXPZLB",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273268f239039bf850e4dd5e4b7ab67616d0000b2734d3486000c17ec340629467dab67616d0000b27391cf34740ff4735cc6180e64ab67616d0000b273d514598e8fcf0561c9440770",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273268f239039bf850e4dd5e4b7ab67616d0000b2734d3486000c17ec340629467dab67616d0000b27391cf34740ff4735cc6180e64ab67616d0000b273d514598e8fcf0561c9440770",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273268f239039bf850e4dd5e4b7ab67616d0000b2734d3486000c17ec340629467dab67616d0000b27391cf34740ff4735cc6180e64ab67616d0000b273d514598e8fcf0561c9440770",
+            "width": 60
+          }
+        ],
+        "name": "grime/garage/uk rap",
+        "owner": {
+          "display_name": "Alex Farquhar",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/alex-farquhar"
+          },
+          "href": "https://api.spotify.com/v1/users/alex-farquhar",
+          "id": "alex-farquhar",
+          "type": "user",
+          "uri": "spotify:user:alex-farquhar"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MTM2LDM2ZTFhZjg4YmEzMzBlMTcwNzM5YzgzYTBiMTRhMmM5NmJiNzQ3YmE=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/5qqeLVtsdxTBRsdMKXPZLB/tracks",
+          "total": 129
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5qqeLVtsdxTBRsdMKXPZLB"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/43YEDnOpLGU90xcCWmt2fg"
+        },
+        "href": "https://api.spotify.com/v1/playlists/43YEDnOpLGU90xcCWmt2fg",
+        "id": "43YEDnOpLGU90xcCWmt2fg",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b2732fd0c566a2db806842b61460ab67616d0000b273c5649add07ed3720be9d5526ab67616d0000b273e4c07796df2a709b3c0ad243",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b2732fd0c566a2db806842b61460ab67616d0000b273c5649add07ed3720be9d5526ab67616d0000b273e4c07796df2a709b3c0ad243",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b2732fd0c566a2db806842b61460ab67616d0000b273c5649add07ed3720be9d5526ab67616d0000b273e4c07796df2a709b3c0ad243",
+            "width": 60
+          }
+        ],
+        "name": "Rso4",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "Miw3YTg3MWIzYmQ2NWY2NWRkNWViYTUxYWM0ZjMwNWFlZDJhOGIwYjhi",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/43YEDnOpLGU90xcCWmt2fg/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:43YEDnOpLGU90xcCWmt2fg"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/5hQS5gR0O1UlQWV2wcAqTw"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5hQS5gR0O1UlQWV2wcAqTw",
+        "id": "5hQS5gR0O1UlQWV2wcAqTw",
+        "images": [],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MSw1NWNiM2JiNjZlMTVkYTFmNTcxYWY1ZGQyY2YyOTMzNDQ1NjJiNDY4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/5hQS5gR0O1UlQWV2wcAqTw/tracks",
+          "total": 0
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5hQS5gR0O1UlQWV2wcAqTw"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/2MlJxN57YBEux2028wRvP5"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2MlJxN57YBEux2028wRvP5",
+        "id": "2MlJxN57YBEux2028wRvP5",
+        "images": [],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MSwzMGQ1M2ZlMjA3N2U5Mjc1ODNmNzQ2MGQ0MDNhNzhkMjgzMDhmYzc0",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/2MlJxN57YBEux2028wRvP5/tracks",
+          "total": 0
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2MlJxN57YBEux2028wRvP5"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/2MlmabdIAKt1uLv8caCUBz"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2MlmabdIAKt1uLv8caCUBz",
+        "id": "2MlmabdIAKt1uLv8caCUBz",
+        "images": [],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MSxjNjVhZTM5NWM5ZjYwZDA4YTk0ZDRkNTU3Mjk1ZjBmODE0ZTc2MjY3",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/2MlmabdIAKt1uLv8caCUBz/tracks",
+          "total": 0
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2MlmabdIAKt1uLv8caCUBz"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/2PqqZjX57Ukg9QanQZzMDj"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2PqqZjX57Ukg9QanQZzMDj",
+        "id": "2PqqZjX57Ukg9QanQZzMDj",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b27347062ae316d5e216a4c264baab67616d0000b2737d6703d9dcccd33668863d74ab67616d0000b273cc8a5d4f1edaa004a3abece7ab67616d0000b273e1b5d4da4797e4760c0b66b3",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b27347062ae316d5e216a4c264baab67616d0000b2737d6703d9dcccd33668863d74ab67616d0000b273cc8a5d4f1edaa004a3abece7ab67616d0000b273e1b5d4da4797e4760c0b66b3",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b27347062ae316d5e216a4c264baab67616d0000b2737d6703d9dcccd33668863d74ab67616d0000b273cc8a5d4f1edaa004a3abece7ab67616d0000b273e1b5d4da4797e4760c0b66b3",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MiwwNTE1OTc3MjNjNTdlMzMxOTVmNWUxMTRjZWU0YmNhNjY4ZWI3MTBl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/2PqqZjX57Ukg9QanQZzMDj/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2PqqZjX57Ukg9QanQZzMDj"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/6qN4xORz26ZQyIA9mZMMAN"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6qN4xORz26ZQyIA9mZMMAN",
+        "id": "6qN4xORz26ZQyIA9mZMMAN",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273011aa86d7b4307e90c9bb48aab67616d0000b2732ba36085eb42bfbf483f6e44ab67616d0000b2732fd0c566a2db806842b61460ab67616d0000b27354a5233b986fbd4310e21ecd",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273011aa86d7b4307e90c9bb48aab67616d0000b2732ba36085eb42bfbf483f6e44ab67616d0000b2732fd0c566a2db806842b61460ab67616d0000b27354a5233b986fbd4310e21ecd",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273011aa86d7b4307e90c9bb48aab67616d0000b2732ba36085eb42bfbf483f6e44ab67616d0000b2732fd0c566a2db806842b61460ab67616d0000b27354a5233b986fbd4310e21ecd",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MiwxODU0Mjc5OGRkMmQ5MDc3MjFiNzQzNzE4ZTFlNjI4NWNlYzViMWM0",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/6qN4xORz26ZQyIA9mZMMAN/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6qN4xORz26ZQyIA9mZMMAN"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/3t7o2gFA9yw3Youj5JfcE2"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3t7o2gFA9yw3Youj5JfcE2",
+        "id": "3t7o2gFA9yw3Youj5JfcE2",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2732f98dc917d7e068ccb7791ddab67616d0000b2735dd65a2ee191015c273acc88ab67616d0000b2737c55ba569c7771fa3003e549ab67616d0000b2738cdc374a84c164e2b3216c2d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2732f98dc917d7e068ccb7791ddab67616d0000b2735dd65a2ee191015c273acc88ab67616d0000b2737c55ba569c7771fa3003e549ab67616d0000b2738cdc374a84c164e2b3216c2d",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2732f98dc917d7e068ccb7791ddab67616d0000b2735dd65a2ee191015c273acc88ab67616d0000b2737c55ba569c7771fa3003e549ab67616d0000b2738cdc374a84c164e2b3216c2d",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MixmYTA0N2IzMWM4OTNiNzNlNGQzMjYyOWU2NGNmNzdmZDYzNTA2N2Rl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/3t7o2gFA9yw3Youj5JfcE2/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3t7o2gFA9yw3Youj5JfcE2"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/6B7NhHUFFOFI3ZktTj34Bs"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6B7NhHUFFOFI3ZktTj34Bs",
+        "id": "6B7NhHUFFOFI3ZktTj34Bs",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b273515023a3a4b55d5db87010e6ab67616d0000b273524aa1b58c9b19480d8ee703ab67616d0000b27384754cebbe3cf0116504589e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b273515023a3a4b55d5db87010e6ab67616d0000b273524aa1b58c9b19480d8ee703ab67616d0000b27384754cebbe3cf0116504589e",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b273515023a3a4b55d5db87010e6ab67616d0000b273524aa1b58c9b19480d8ee703ab67616d0000b27384754cebbe3cf0116504589e",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MixkMWY2NGIxNDJkODNlMTFhMmY3MjI1NWZlNDA1OTcxMGYyMjU2ZWMw",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/6B7NhHUFFOFI3ZktTj34Bs/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6B7NhHUFFOFI3ZktTj34Bs"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/5NY9WUCHFu1iZSD59SWq0H"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5NY9WUCHFu1iZSD59SWq0H",
+        "id": "5NY9WUCHFu1iZSD59SWq0H",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273043c0e1ed5fea80da456116dab67616d0000b273b6ebdbbe53227ccbac4de534ab67616d0000b273cc8a5d4f1edaa004a3abece7ab67616d0000b273cc9c90aebe5551307780eaf1",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273043c0e1ed5fea80da456116dab67616d0000b273b6ebdbbe53227ccbac4de534ab67616d0000b273cc8a5d4f1edaa004a3abece7ab67616d0000b273cc9c90aebe5551307780eaf1",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273043c0e1ed5fea80da456116dab67616d0000b273b6ebdbbe53227ccbac4de534ab67616d0000b273cc8a5d4f1edaa004a3abece7ab67616d0000b273cc9c90aebe5551307780eaf1",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MiwwYjEzZTczNWQxZjQxM2VmODBmNjE0ZDIyZGVmNDkyOTdmNDVkZTM5",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/5NY9WUCHFu1iZSD59SWq0H/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5NY9WUCHFu1iZSD59SWq0H"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/6mRl36PfgwoO0P4OFZ4jvm"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6mRl36PfgwoO0P4OFZ4jvm",
+        "id": "6mRl36PfgwoO0P4OFZ4jvm",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2732ba36085eb42bfbf483f6e44ab67616d0000b27343969ecfe687484121805478ab67616d0000b2735dd65a2ee191015c273acc88ab67616d0000b273c5649add07ed3720be9d5526",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2732ba36085eb42bfbf483f6e44ab67616d0000b27343969ecfe687484121805478ab67616d0000b2735dd65a2ee191015c273acc88ab67616d0000b273c5649add07ed3720be9d5526",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2732ba36085eb42bfbf483f6e44ab67616d0000b27343969ecfe687484121805478ab67616d0000b2735dd65a2ee191015c273acc88ab67616d0000b273c5649add07ed3720be9d5526",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "Miw1MTk5YWExMmNlOGIzM2RjMmQ2N2M1NTAzMDAyODA4ZDQzNmRlMWQw",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/6mRl36PfgwoO0P4OFZ4jvm/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6mRl36PfgwoO0P4OFZ4jvm"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/6P1GFs6ILrQxmpcYOyiA7x"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6P1GFs6ILrQxmpcYOyiA7x",
+        "id": "6P1GFs6ILrQxmpcYOyiA7x",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273011aa86d7b4307e90c9bb48aab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b27314c07768d4acc4282a66a61bab67616d0000b273e4c07796df2a709b3c0ad243",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273011aa86d7b4307e90c9bb48aab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b27314c07768d4acc4282a66a61bab67616d0000b273e4c07796df2a709b3c0ad243",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273011aa86d7b4307e90c9bb48aab67616d0000b273065e02d1c797799b7ba3ac86ab67616d0000b27314c07768d4acc4282a66a61bab67616d0000b273e4c07796df2a709b3c0ad243",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MiwwMmJmYzk3MTBjZTA0OGM5Zjk2NGE5ZTVmZGRjM2ViM2U1OGRmNDIz",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/6P1GFs6ILrQxmpcYOyiA7x/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6P1GFs6ILrQxmpcYOyiA7x"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/5N9qDtQ6bWfM6I19znvjUO"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5N9qDtQ6bWfM6I19znvjUO",
+        "id": "5N9qDtQ6bWfM6I19znvjUO",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b27326b7dd89810cc1a40ada642cab67616d0000b2732b688ab63b1a5f281cfdf451ab67616d0000b273600adbc750285ea1a8da249fab67616d0000b273f7db43292a6a99b21b51d5b4",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b27326b7dd89810cc1a40ada642cab67616d0000b2732b688ab63b1a5f281cfdf451ab67616d0000b273600adbc750285ea1a8da249fab67616d0000b273f7db43292a6a99b21b51d5b4",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b27326b7dd89810cc1a40ada642cab67616d0000b2732b688ab63b1a5f281cfdf451ab67616d0000b273600adbc750285ea1a8da249fab67616d0000b273f7db43292a6a99b21b51d5b4",
+            "width": 60
+          }
+        ],
+        "name": "Setlist Testing 2",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MixkYzMxYWQ0MzFiMWE0ZDU5OTQ3NTc1M2RhNWNkMWJhYTI1ZjMwZjhl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/5N9qDtQ6bWfM6I19znvjUO/tracks",
+          "total": 94
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5N9qDtQ6bWfM6I19znvjUO"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/5yRSD1cFCa3HQUkkfmYcaD"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5yRSD1cFCa3HQUkkfmYcaD",
+        "id": "5yRSD1cFCa3HQUkkfmYcaD",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b27314d3a2a7a92b85a06c93e544ab67616d0000b2732f44aec83b20e40f3baef73cab67616d0000b273600adbc750285ea1a8da249fab67616d0000b273f7db43292a6a99b21b51d5b4",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b27314d3a2a7a92b85a06c93e544ab67616d0000b2732f44aec83b20e40f3baef73cab67616d0000b273600adbc750285ea1a8da249fab67616d0000b273f7db43292a6a99b21b51d5b4",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b27314d3a2a7a92b85a06c93e544ab67616d0000b2732f44aec83b20e40f3baef73cab67616d0000b273600adbc750285ea1a8da249fab67616d0000b273f7db43292a6a99b21b51d5b4",
+            "width": 60
+          }
+        ],
+        "name": "Setlist testing ",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MixhODA4Nzg2MzJiNDBjZjI5MzkzMjM1MTBmMjQzMTlkODc5MmQxYjNl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/5yRSD1cFCa3HQUkkfmYcaD/tracks",
+          "total": 53
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5yRSD1cFCa3HQUkkfmYcaD"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/4y5hHuCnRWjPxQ3xlVwpHF"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4y5hHuCnRWjPxQ3xlVwpHF",
+        "id": "4y5hHuCnRWjPxQ3xlVwpHF",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2731cfcbbbc20408bc5f02dde0cab67616d0000b273600adbc750285ea1a8da249fab67616d0000b273720be50074ccc55c97cbfc6fab67616d0000b2738af3127769dfc0021f7bd6ae",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2731cfcbbbc20408bc5f02dde0cab67616d0000b273600adbc750285ea1a8da249fab67616d0000b273720be50074ccc55c97cbfc6fab67616d0000b2738af3127769dfc0021f7bd6ae",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2731cfcbbbc20408bc5f02dde0cab67616d0000b273600adbc750285ea1a8da249fab67616d0000b273720be50074ccc55c97cbfc6fab67616d0000b2738af3127769dfc0021f7bd6ae",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "Miw4YTdiNTg4YzYzMTlhMjMwZDY0ZTRlODA2ZTY0M2QwYTM1NTI1NWY0",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/4y5hHuCnRWjPxQ3xlVwpHF/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4y5hHuCnRWjPxQ3xlVwpHF"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/2NTnaWaAVshPnTJ6DevU1g"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2NTnaWaAVshPnTJ6DevU1g",
+        "id": "2NTnaWaAVshPnTJ6DevU1g",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2732b09fa6d5b2828d5f02617a9ab67616d0000b2732ba36085eb42bfbf483f6e44ab67616d0000b273720be50074ccc55c97cbfc6fab67616d0000b273c5649add07ed3720be9d5526",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2732b09fa6d5b2828d5f02617a9ab67616d0000b2732ba36085eb42bfbf483f6e44ab67616d0000b273720be50074ccc55c97cbfc6fab67616d0000b273c5649add07ed3720be9d5526",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2732b09fa6d5b2828d5f02617a9ab67616d0000b2732ba36085eb42bfbf483f6e44ab67616d0000b273720be50074ccc55c97cbfc6fab67616d0000b273c5649add07ed3720be9d5526",
+            "width": 60
+          }
+        ],
+        "name": "My Setlist",
+        "owner": {
+          "display_name": "Jordan Morrison",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/11140603442"
+          },
+          "href": "https://api.spotify.com/v1/users/11140603442",
+          "id": "11140603442",
+          "type": "user",
+          "uri": "spotify:user:11140603442"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MiwxYzgzMzE1ODUxMWJlZmFhMzM2ODNiZDFhZjkxNTgzNWViM2ZiZDU2",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/2NTnaWaAVshPnTJ6DevU1g/tracks",
+          "total": 49
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2NTnaWaAVshPnTJ6DevU1g"
+      }
+    ],
+    "limit": 50,
+    "next": "https://api.spotify.com/v1/users/11140603442/playlists?offset=50&limit=50",
+    "offset": 0,
+    "previous": null,
+    "total": 204
+  }
+
+  
